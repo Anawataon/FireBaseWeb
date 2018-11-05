@@ -37,7 +37,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 |             |             |         &nbsp;|
 |             |             |           <br>|
 |             |             |         <br />|
-|             |             |               |
 |             |             |              -|
 | Header      | Title       | Here's this   |
+|             |             |               |
+|             |             |               |
+|             |             |               |
 | Paragraph   | Text        | And more      |
