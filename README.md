@@ -30,3 +30,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 | :-------- | :--------: | ---------: |
 |   ชิดซ็าย   |   กึ่งกลาง   |    ชิดขวา   |
 |   ชิดซ็าย   |   กึ่งกลาง   |    ชิดขวา   |
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+|             |             |         &nbsp;|
+|             |             |           <br>|
+|             |             |         <br />|
+|             |             |              \|
+|             |             |              -|
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
